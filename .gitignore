@@ -4,3 +4,22 @@ __pycache__/
 .DS_Store
 .env
 .streamlit/secrets.toml
+
+# Ambientes virtuais
+venv_py310/
+
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração IDE
+.idea/
+.vscode/
+
+# Arquivos de ambiente
+.env
+.envrc
+
+# Outros arquivos gerados
+cards_detected_hybrid/
