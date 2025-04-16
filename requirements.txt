@@ -6,7 +6,8 @@ Pillow
 opencv-python-headless==4.8.0.76 # Requisito mínimo do usuário
 streamlit-webrtc
 av
-numpy>=1.24.0     # Requisito mínimo do usuário
+numpy>=1.24.0
+aiortc     # Requisito mínimo do usuário
 
 # Outras dependências encontradas anteriormente (deixar pip resolver)
 altair
